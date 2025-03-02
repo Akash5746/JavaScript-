@@ -36,10 +36,14 @@ let myobj = {             // we declare object inside the curly braces{}
         name : "Akash",
         age  : 21,
 }
+console.log(myobj);
+
 
 const myfunction = function(){
         console.log("hello akash");
 }
+console.log(myfunction);
+
 
 
 /*
