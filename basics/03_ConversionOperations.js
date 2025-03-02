@@ -1,3 +1,5 @@
+//                                       *************    Conversion     ************
+
 let score = "33abc"
 console.log(typeof (score));
 
@@ -36,7 +38,16 @@ console.log(stringNum)
 console.log(typeof stringNum);
 
 
+//                                        ***********   Operations    *************
 
+let number = 3
+let negNumber = -number 
+console.log(negNumber);
 
+console.log(1+1);
+console.log("1" + 2 + 2);             // when we first right string then adding a value then it will actually not adding any value it will do a concatenation
+console.log(2 + 1 + "2");            // here when we first right a number and then add a string then it will be adding a number 
+
+// because this is a rule in ecma script that when u right first a string then it will concate... and if u write a number first and then add a string then it will add a value
 
 
