@@ -13,6 +13,7 @@ let isLoggedIn = true  // this is boolean data type
 // null  => standalone value                 null represent a empty value
 // undefined                                 it represent nun value is defined in the given variable
 // symbol => uniqueness                                 it is mostly use when we use react or figma and mostly use for uniqueness
+console.log(typeof isLoggedIn);
 
 
 console.log(typeof "akash")   // typeof is use for defining the type of the variable of given data
